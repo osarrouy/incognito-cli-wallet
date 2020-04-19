@@ -1,0 +1,10 @@
+# npm
+node_modules/
+package-lock.json
+
+# babel
+.cache
+/lib/
+
+# macOS shit
+.DS_Store
